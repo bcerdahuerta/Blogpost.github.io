@@ -4,9 +4,8 @@ I'm trying git
 I'm making a change to practice some commands on GIT
 MASTER1
 
+MASTER 2
+
 Experimento 1
-<<<<<<< HEAD
-=======
 
 Experimento 2
->>>>>>> 1d69e42 (Experimento 2)
