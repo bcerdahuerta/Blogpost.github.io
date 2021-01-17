@@ -2,3 +2,4 @@ This a file Test
 I'm trying git
 
 I'm making a change to practice some commands on GIT
+MASTER1
